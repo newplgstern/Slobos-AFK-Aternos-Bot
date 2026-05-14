@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "plgstern.aternos.me:17787",
+    "ip": "plgstern.aternos.me",
     "port": 17787,
     "version": "1.20.1",
     "try-creative": false
